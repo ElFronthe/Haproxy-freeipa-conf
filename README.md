@@ -1,5 +1,5 @@
 # Haproxy-freeipa-conf
-Make freeipa hosts awailable behaind haproxy load balancer
+Make freeipa hosts available behind haproxy load balancer
 ```
 ...
 frontend main 
